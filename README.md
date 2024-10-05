@@ -9,7 +9,7 @@ Olá, me chamo Reinan, e sou desenvolvedor fullstack!!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,git,html,css,js,nodejs,bootstrap,py,spring" />
+    <img src="https://skillicons.dev/icons?i=java,c,react,git,html,css,js,nodejs,bootstrap,py,spring" />
   </a>
 </p>
 
