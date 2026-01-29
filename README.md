@@ -15,7 +15,7 @@ Tenho experiência prática com **Machine Learning e Deep Learning**, com foco e
 
 Atualmente trabalho com modelos de **Deep Learning** aplicados a imagens e vídeos, utilizando frameworks modernos e explorando **otimização de pipelines, desempenho computacional e qualidade dos resultados**.
 
-Além disso, mantenho um perfil **fullstack**, desenvolvendo aplicações web completas, APIs e sistemas bem estruturados, sempre priorizando **boas práticas, escalabilidade e código limpo**.
+Além disso, mantenho um perfil **fullstack**, desenvolvendo aplicações web completas, APIs e sistemas bem estruturados, sempre priorizando **boas práticas, escalabilidade**.
 
 ---
 
